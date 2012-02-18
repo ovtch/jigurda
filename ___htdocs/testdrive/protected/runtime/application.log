@@ -1,0 +1,332 @@
+2012/01/15 14:37:06 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:37:15 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:38:19 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:38:19 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:38:20 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:38:20 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:38:20 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:38:20 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:38:21 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:38:21 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:38:21 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:38:21 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:38:21 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:38:21 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:38:21 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:38:21 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:38:23 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:39:46 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:39:57 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:40:05 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:40:06 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:40:06 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:40:16 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:40:54 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:40:59 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:41:01 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:43:09 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:43:10 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:43:25 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:46:22 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:46:29 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:46:30 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:46:30 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:49:27 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index-test.php(15): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index-test.php?r=gii
+2012/01/15 14:49:32 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:57:39 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index-test.php(15): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index-test.php?r=gii
+2012/01/15 14:57:45 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index-test.php(15): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index-test.php?r=gii
+2012/01/15 14:57:50 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 14:58:03 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii&password=test123
+2012/01/15 14:58:12 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/firminform_ru/yii/framework/gii/GiiModule.php:163
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(255): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('gii')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/testdrive/index.php?r=gii
+2012/01/15 15:04:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user".' in /var/www/firminform_ru/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('user')
+#1 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/firminform_ru/htdocs/testdrive/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/testdrive/index.php?r=user
+2012/01/15 15:05:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user".' in /var/www/firminform_ru/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('user')
+#1 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/firminform_ru/htdocs/testdrive/index-test.php(15): CApplication->run()
+#3 {main} REQUEST_URI=/testdrive/index-test.php?r=user

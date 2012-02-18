@@ -1,0 +1,22 @@
+2012/01/15 15:53:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "firm".' in /var/www/firminform_ru/yii/framework/web/CController.php:477
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(262): CController->missingAction('firm')
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('firm')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('site/firm')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/blog/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/blog/index.php?r=site/firm
+2012/01/15 15:53:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "firms".' in /var/www/firminform_ru/yii/framework/web/CController.php:477
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CController.php(262): CController->missingAction('firms')
+#1 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(277): CController->run('firms')
+#2 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('site/firms')
+#3 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#4 /var/www/firminform_ru/htdocs/blog/index.php(13): CApplication->run()
+#5 {main} REQUEST_URI=/blog/index.php?r=site/firms
+2012/01/15 15:54:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "sit".' in /var/www/firminform_ru/yii/framework/web/CWebApplication.php:281
+Stack trace:
+#0 /var/www/firminform_ru/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('sit')
+#1 /var/www/firminform_ru/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#2 /var/www/firminform_ru/htdocs/blog/index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/blog/index.php?r=sit
